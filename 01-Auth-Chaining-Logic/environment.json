@@ -1,0 +1,22 @@
+{
+  "id": "manual-env-id",
+  "name": "Environment 1",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "https://reqres.in",
+      "enabled": true
+    },
+    {
+      "key": "token",
+      "value": "",
+      "enabled": true
+    },
+    {
+      "key": "timestamp",
+      "value": "",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment"
+}
