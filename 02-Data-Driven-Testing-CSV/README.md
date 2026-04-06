@@ -30,7 +30,8 @@ This project demonstrates advanced **Data-Driven Testing (DDT)** methodologies u
 ## 📊 Execution Results
 Below is the visual proof of the **100% Pass Rate** across 13 iterations using the Collection Runner.
 
-![Test Execution Results](results.png)
+![Test Execution Results](https://github.com/user-attachments/assets/19efecb9-8e3d-43e5-9536-9185e54b9116)
+
 
 | Iterations | Status | Pass Rate |
 | :--- | :--- | :--- |
